@@ -1,75 +1,17 @@
-Dat Ha presented on his project: 
-
-Repurposing cardiac glycosides as potential cancer therapeutics
-
-He began with an overview of his lab's protein of interest, GRP78/BiP. GRP78 is an ER charperione analogous to hsp70 which acts as a part of the unfolded protein response. Unlike other partners in the unfolded protein response, GRP78 is exclusive to the endoplasmic reticulum. Where it acts to facilitate protein folding, to degrade misfolded proteins, and to prevent protein aggregation. It is a regulator of ER stress signaling. 
-
-Dat laid out the factors that induce ER stress in cancer both intrinsic to cancer cells--mutation, metabolism, and proliferation, and extrinsic--nutrient deprivation, hypoxia, and low pH. 
-
-He descibed the other factors in the unfolded protein response that are affected by GRP78 level. Including post-translational processing by ATF6 in the golgi, phosphorylation and signaling cascades driven by PERK, and splicing of the transcription factor XBP1. All of these effects lead to proliferation during cancer. 
-
-Dat described how GRP78 upregulation affects  many hallmarks of cancer including cell death and immunity and inflammation. GRP78 upregulation is widespread across many cancers and is upregulated in aggressive cancer though other GRPs are also involved to lesser extents. 
-
-To investigate therapeutic targets for GRP78 inhibition, his lab ran a compound-screening project. This screen included the NIH clinical collection compound library. The screen yieled a large number of cardiac glycosides including digoxin and oleandrin. Cardiac glycosides are commonly used to treat heart conditions by 
-
-1. bind and inhib NA/K ATPase pump
-
-have common structure 
-
-digoxin most famous; used to treat heart failure. 
-
-how digoxin works: 
-digoxin inhibits pump > conc of Na rise > CA 3exchange worse > CA rise > SERCA pump in ER works worse > muscle contraction is stronger 
+high
+1. comment at start of discussion: "For Discussion: includes sequence changes, not copy number; inclusion of copy number likely gives more examples but resolution not sufficient (we detected two BCOR changes of xx bp; 
+except in one study. could likely increase power to detect." (p19)
+2. plot AA changes in SAMD9 (p21)?
+3. refs to Manning (
 
 
+targetted sequencing will miss most retinoblastoma-related recurrent changes, in specific genes and pathways. 
 
-digoxin enhancs overall survival of cancer patients (menger et  al. 2012)
+veracity of variants:  Zhang and McEvoy confirmed all by Sanger. We confirmed some; Kooi did not and may have some spurious."
 
-oleandrin as another cardiac glycoside > nerium oleander
-
-
-three aims 
-
-1. cg suppress ER stress-induced GRP78 
-
-induced ER stress with LanC then treat with Tg, Tu, 2-DG
-
-2. mech that cg suppress grp78
-
-3. anticancer effects in vitro in vivo
-
-oleandrin blocks ER-stress induction of GRP78 in MCF-7 GFP/Luc cells 
-
-
-aim 1 
-effect of suppress grrr 
-
-p-EIF2a is marker for URP
-
-
-MTT assay for cell viability of
-
-questions 
-1. don't understand mechanism of titration; is there production of GRP-78 in the model? how are western blots good evidence?
-
-aim 2
-determine mechainsm that CG suppress GRP{78 expression 
-
-all subunits transcribed separately?
-
-NA/K ATPase have a, b and FXPY
-
-different cell lines have different levels of a subunits 
-a3 more responsive to CG treatment 
-
-xenograft mouse with oleandrin survive better; grp78 reduced in treated oleandrin
-
-
-
-
-future directions
-1. test effect of CGs on tumor xenograft in mice
-
-2. test effets of DGs on colon organoids
-
-3. mechani that DG supress ER-stress induced GRP78 expression 
+low
+1. should cultuer T-29
+2. dropped CORO6
+3. how would a permutation test work for recurrence?
+4. add KEGG?
+5. look at GEO for only non-protein-altering changes
