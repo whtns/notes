@@ -1,61 +1,21 @@
-repurposing cardiac glycosides as potential cancer therapeutics
+---
+title: "R Notebook"
+output: html_notebook
+---
 
-GRP78/BiP
+Dat Ha presented on his project: 
 
-ER charperione 
+Repurposing cardiac glycosides as potential cancer therapeutics
 
-induced by glucose starvation 
+He began with an overview of his lab's protein of interest, GRP78/BiP. GRP78 is an ER charperione analogous to hsp70 which acts as a part of the unfolded protein response. Unlike other partners in the unfolded protein response, GRP78 is exclusive to the endoplasmic reticulum. Where it acts to facilitate protein folding, to degrade misfolded proteins, and to prevent protein aggregation. It is a regulator of ER stress signaling. 
 
-50% homology to hsp70; exclusive to ER
+Dat laid out the factors that induce ER stress in cancer both intrinsic to cancer cells--mutation, metabolism, and proliferation, and extrinsic--nutrient deprivation, hypoxia, and low pH. 
 
-KDEL retention
+He descibed the other factors in the unfolded protein response that are affected by GRP78 level. Including post-translational processing by ATF6 in the golgi, phosphorylation and signaling cascades driven by PERK, and splicing of the transcription factor XBP1. All of these effects lead to proliferation during cancer. 
 
-protein folding 
-degrad misfolded protein
-prevent protein aggregation 
+Dat described how GRP78 upregulation affects  many hallmarks of cancer including cell death and immunity and inflammation. GRP78 upregulation is widespread across many cancers and is upregulated in aggressive cancer though other GRPs are also involved to lesser extents. 
 
-regulator of ER stress signaling 
-
-1. factos that induce ER stress in cacner 
-
-intrins
-1. mutation 
-metaboloism 
-prolif
-
-extrins
-nutrient 
-hypoxia
-low pH
-
-
-
-role of grp78 in unfolded protein response 
-
-
-
-XBP1 driven splicing affected by 78-unbound IRE1
-
-regulate hallmarks of cancer 
-
-1. cell death 
-
-immunity and inflammation
-
-upregulated in aggressive cancer 
-
-other GRPs also involved to lesser extents 
-
-
-
-ran compound-screening project to find grp78 inhib
-
-
-compound library 
-
-NIH clinical collection is a common library 
-
-cardiac glycosides are common in the screen 
+To investigate therapeutic targets for GRP78 inhibition, his lab ran a compound-screening project. This screen included the NIH clinical collection compound library. The screen yieled a large number of cardiac glycosides including digoxin and oleandrin. Cardiac glycosides are commonly used to treat heart conditions by 
 
 1. bind and inhib NA/K ATPase pump
 
