@@ -1,20 +1,37 @@
 high
 1. comment at start of discussion: "For Discussion: includes sequence changes, not copy number; inclusion of copy number likely gives more examples but resolution not sufficient (we detected two BCOR changes of xx bp; 
 except in one study. could likely increase power to detect." (p19)
-2. plot AA changes in SAMD9 (p21)?
-3. refs to Manning (
-4. can explain waterfall (p25)
-5. ref to qi 2014 (p26)
-6. talk about notes? (p28)
-
-
 targetted sequencing will miss most retinoblastoma-related recurrent changes, in specific genes and pathways. 
 
 veracity of variants:  Zhang and McEvoy confirmed all by Sanger. We confirmed some; Kooi did not and may have some spurious."
+
+2. plot AA changes in NAF1 (p21)?
+more relevant if we find COSMIC; can plot those 
+
+3. refs to Manning (
+
+4. mskcc poly paper: https://pubmed.ncbi.nlm.nih.gov/30150773/
+
+4. can explain waterfall (p25)
+share SCNA for all studies; check if Kooi describes relative SNV/SCNA burden
+
+5. ref to qi 2014 (p26)
+
+actually qi 2017
+
+6. talk about notes? (p28)
+
+1. are any recurrent SNVs in any SCNAs make table 
 
 low
 1. should cultuer T-29
 2. dropped CORO6
 3. how would a permutation test work for recurrence?
+
+come back to this
+
 4. add KEGG?
+
 5. look at GEO for only non-protein-altering changes
+
+look up 
