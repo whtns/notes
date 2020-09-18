@@ -1,4 +1,18 @@
-# notes
+# TO DO 2020-09-17
+
+1. prep solutions
+  a. aliquot ez lysis buffer (nuclear isolation)
+  b. Nuclei wash and resuspension buffer (prepare chilled, 4°C) 
+    1x PBS 
+    1.0% BSA
+    0.2 U/μl RNase Inhibitor
+
+1. Section tumors CHLA-VC-RB-002, CHLA-VC-RB-005, CHLA-VC-RB-068, CHLA-VC-RB-071 and place in low-retention 0.5 ml tubes at -20 deg. 
+
+one tumor section at a time:
+
+2. abbreviated 'frankenstein protocol'
+
 
 DC: if dnaseq works well can understand variability in clonal populations 
 
