@@ -37,3 +37,10 @@ not an issue to permeabilize for rb staining; maybe got in a different color?
 need to titrate how small amount can do; need to id sample w/ low tumor fraction 
 
 st. baldrick's: 
+
+
+
+
+
+
+
