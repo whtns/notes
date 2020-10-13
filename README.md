@@ -16,3 +16,5 @@ modifications to nextera
 smallest amount yet tried by SHL 0.03 ng/ul. likely nucleic concentration is ~0.01 ng/ul (6 pg DNA + 6 pg RNA)
 
 5. check protocols for Tn5 concentration of nextera
+
+?helpful to add proteinase k before gdna amplification?
