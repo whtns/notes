@@ -11,4 +11,6 @@
 11. sort table 3 by refine status first; order: tr tu clr clu; attach as excel; make supplement
 12. make clear the distinction between s4 and s1
 13. s4a) vc snvs w/ column for filtering (cl and t) s4b) vc snvs filtered (cl and t) s1) vc snvs and focal scnas w/ prior studies (t) s6) all scnas in this study
-14. put 
+14. retitle vaf density plots 
+15. mention unaltered samples 
+16. make loh segmentation and scna segmentation tables supplemental
