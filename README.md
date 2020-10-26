@@ -1,1 +1,2 @@
 # notes
+aim1: 
