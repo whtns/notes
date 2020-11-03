@@ -9,7 +9,7 @@
 9. done drop prior_study_focal_scnas (only MYCN)
 10. done drop scnas from recurrent_all_study_mutations
 11. done sort table 3 by refine status first; order: tr tu clr clu; 
-12. make table 3 supplement
+12. done make table 3 supplement
 12. done make clear the distinction between s4 and s1
 13. done s4a) vc snvs w/ column for filtering (cl and t) s4b) vc snvs filtered (cl and t) 
 14. done s1) vc snvs and focal scnas w/ prior studies (t) 
