@@ -4,5 +4,5 @@ pt1 (differentiation) and pt2 (proliferation)
 2. find correlation b/w eigengene and pseudotime or cluster id
 3. sort me heatmap rows by pseudotime and by cluster id
 
-email liya about sequencing schedule
-need to do H&E on all? rb tumors
+4. email liya about sequencing schedule
+5. need to do H&E on all? rb tumors
