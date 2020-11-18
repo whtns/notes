@@ -6,3 +6,5 @@ pt1 (differentiation) and pt2 (proliferation)
 
 4. email liya about sequencing schedule
 5. need to do H&E on all? rb tumors
+
+6. ask HS about ARR3 or RXRG for sorting nuclei
