@@ -9,3 +9,6 @@ pt1 (differentiation) and pt2 (proliferation)
 
 6. ask HS about ARR3, RXRG, or SYK for sorting nuclei
 7. try nuclear staining of block with high purity; 
+
+
+TODO: create analysis of read discard on GTO segmentation analysis
