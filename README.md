@@ -12,3 +12,5 @@ pt1 (differentiation) and pt2 (proliferation)
 
 
 TODO: create analysis of read discard on GTO segmentation analysis
+
+why are some SCNA no good, while cDNA libraries are all good?
