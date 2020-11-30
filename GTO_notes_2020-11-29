@@ -14,3 +14,20 @@ pt1 (differentiation) and pt2 (proliferation)
 TODO: create analysis of read discard on GTO segmentation analysis
 
 why are some SCNA no good, while cDNA libraries are all good?
+
+pt1 (differentiation) and pt2 (proliferation)
+
+1. how are genes filtered?
+2. find correlation b/w eigengene and pseudotime or cluster id
+3. sort me heatmap rows by pseudotime and by cluster id
+
+4. email liya about sequencing schedule
+5. need to do H&E on all? rb tumors
+
+6. ask HS about ARR3, RXRG, SYK, or CD133 for sorting nuclei
+7. try nuclear staining of block with high purity; 
+8. check with sHL about mantis dead-vol
+
+scale volumes to 5ul 
+
+check with SHL about cold block for fragmentation buffer
