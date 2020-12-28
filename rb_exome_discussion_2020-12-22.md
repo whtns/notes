@@ -31,7 +31,7 @@
 8. done resolve TMEM135 
 9. 30 or 29 genes in fig s4 
 10. show table 3 w/o Kooi 1.0;  possibly one w/ kooi? only show displayed ontologies. determine criteria for FDR(?) cutoff; change terminology of 'refine_set' to 'variants' with 'all' and 'protein-altering only' 
-11. change line in fig5 to p=0.05 (1.3 after log transform?)
+11. done change line in fig5 to p=0.05 (1.3 after log transform?)
 
 Tricky!
 A. Do exomes from new cell lines (RB 14 and RB29)
