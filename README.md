@@ -1,4 +1,4 @@
-# TODO
-1. sort 8 Y79 nuclei
-2. thaw and DNA extract RB14 and RB29
-3. get covid shot
+# rb exome talk 2021-01-13
+
+## Before Talk
+1. how to manage STR? currently have STR from submitted cell lines; need to get STR again after thawing? 
