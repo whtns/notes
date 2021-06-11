@@ -30,3 +30,6 @@ need to nail down deep contrast with side stamp-collecting approach
 snRNAseq capable 
 bases on my work; have skillset; and allows to go deep 
 
+how distinguish between specialized late cone population and a specialized cone population? 
+
+why would there be two different paths to cones? 
