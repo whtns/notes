@@ -120,6 +120,10 @@ reassess tumor samples
 
 how many new samples are viably frozen and what are profiles? 
 
+2020-06-29:
+1. work up RB-49 for snGTO
+2. 
+
 
 
 
