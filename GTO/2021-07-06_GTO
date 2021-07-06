@@ -1,220 +1,79 @@
-# notes
-the genome wide impact of trisomy 21 on DNA methylation and its implications for hematopoiesis
-
-avoid editorializing about your audience "might be bored by this"
-
-cd4 and nRBC split on heatmap
-
-is DMR run by gene or arbitrarily? where regions: comb-p and DMRcate
-
-ask Long about bioanalyzer
-
-paper about transduction into Rb cells 
-
-check DQ paper about puro selection
-
-PAN2 needs to be snGTO? 
-
-check BCOR transcriptomic effect is the same in vivo and in vitro 
-
-BCOR in vitro and in vivo 
-
-put BCOr into lines where deleted 
-
-PAN2 effect might be visible as a increaase in RNA biogenesis (Kooi)
-
-skillset bioinfo and xenograpft connets with discovery of PAN2 by me 
-
-need to nail down deep contrast with side stamp-collecting approach 
-
-snRNAseq capable 
-bases on my work; have skillset; and allows to go deep 
-
-how distinguish between specialized late cone population and a specialized cone population? 
-
-why would there be two different paths to cones? 
-
-Subclonal heterogeneity
-
-Have paper under review 
-
-Bioinfo strength 
-
-Training fellowship
-Career plan is imp.
-
-People guiding 
-
-Jim Hicks
-
-David Craig
-
-Push the subtleties of GTO 
-
-Can do PAN2 in the next few weeks enrichment pcr 
-
-Start with tumors with tractable subclonal heterogeneity 
+2021-07-01
 
 
-Can find a mentor for tail length issues? 
+1.	GTO 
 
-Goal to deconvo. Contributions of SNVS and SCNAs in retinoblastoma tumor progression. 
+a.	ask Long about bioanalyzer
+b.	PAN2 needs to be snGTO? 
 
-When het for SCNA find effect when het for SNV find effect. How do they relate? 
+2.	CRISPRi
+a.	paper about transduction into Rb cells 
+b.	check DQ paper about puro selection
+3.	PAN2/BCOR
+a.	check BCOR transcriptomic effect is the same in vivo and in vitro 
+b.	put BCOR into lines where deleted 
+c.	PAN2 effect might be visible as an increase in RNA biogenesis (Kooi)
+d.	Can do PAN2 in the next few weeks enrichment pcr 
 
-Requires:
-New methods
-Appropriate samples 
-Domain expertise 
+4.	F31 writing
+a.	Goal to deconvo. Contributions of SNVS and SCNAs in retinoblastoma tumor progression. 
+b.	I have a skill set bioinfo and xenograpft connets with discovery of PAN2 by me 
+c.	need to nail down deep contrast with side stamp-collecting approach 
+d.	snRNAseq capable 
+e.	bases on my work; have skillset; and allows to go deep 
+f.	Subclonal heterogeneity
+g.	Have paper under review 
+h.	Bioinfo strength 
+i.	Training fellowship
+j.	Career plan is imp.
+k.	People guiding 
+i.	Jim Hicks
+ii.	David Craig
+l.	Push the subtleties of GTO 
+m.	Start with tumors with tractable subclonal heterogeneity 
+n.	Can find a mentor for tail length issues? 
+o.	When het for SCNA find effect when het for SNV find effect. How do they relate? 
+p.	Requires:
+i.	New methods
+ii.	Appropriate samples 
+iii.	Domain expertise 
+iv.	Have tools? Have impact? 
+q.	Priority would be pan2 qpcr
+r.	Push lab experience with MYCN 
+s.	PAN2 knockdown and overexpression in cel lines 
+t.	Detect MYCN effects 
+u.	Detect biogenesis signature
+v.	Detect tail length changes
+w.	PAN2 kD or oe then mycn persist? 
+x.	could generate pan2 mutant in fetal retina as positive control 
+y.	mycna rb have 100x higher mycn than cones 
+z.	vectors that express mycn make similarly high mycn in cones 
+aa.	can discern increase MYCN with disruption of deadenylation?
+bb.	can atrribute to MYCN increased expression of other transcript changes
+cc.	copy increased level of MYCN w/ PAN2 mutation 
+dd.	can measure how long-lived rnas are? like velocity 
+ee.	up by 10x mycn (vector) or 2-3x mycn in pan2 mutant 
+5.	TODO
+a.	check with PIBBS about requirements for thesis comittee (chair?) 
+b.	check with Ite? 
+c.	PAN2 genotyping or (taqman)?
+d.	order primer pairs
+e.	ask liya about partial target enrichment (PAN2) aliquot - pcr - sequence or include primers in final GTO amp steps? 
+f.	follup with Rish 
+g.	underrep of short in GTO, how bad is it? 
+h.	worth it to titrate fragmentation buffer? 
+i.	GTO; what samples are worthwhile?
+j.	found subclonal het in tumors for RB41 
+k.	reassess tumor samples 
+l.	how many new samples are viably frozen and what are profiles? 
+i.	ineligible: 11 + 17
+ii.	eligible: 17 
+iii.	unknown: 2
 
-Have tools? Have impact? 
+2021-07-06
 
-Priority would be pan2 qpcr 
-
-t
-
-Push lab experience with MYCN 
-
-
-
-PAN2 knockdown and overexpression in cel lines 
-Detect MYCN effects 
-Detect biogenesis signature
-Detect tail length changes
-
-PAN2 kD or oe then mycn persist? 
-
-could generate pan2 mutant in fetal retina as positive control 
-
-mycna rb have 100x higher mycn than cones 
-
-vectors that express mycn make similarly high mycn in cones 
-
-can discern increase MYCN with disruption of deadenylation?
-
-can atrribute to MYCN increased expression of other transcript changes
-
-copy increased level of MYCN w/ PAN2 mutation 
-
-can measuer how long-lived rnas are? like velocity 
-
-up by 10x mycn (vector) or 2-3x mycn in pan2 mutant 
-
-
-TODO
-
-check with PIBBS about requirements for thesis comittee (chair?) 
-check with Ite? 
-
-PAN2 genotyping or (taqman)?
-order primer pairs
-ask liya about partial target enrichment (PAN2) aliquot - pcr - sequence or include primers in final GTO amp steps? 
-
-follup with Rish 
-underrep of short in GTO, how bad is it? 
-worth it to titrate fragmentation buffer? 
-
-GTO; what samples are worthwhile?
-found subclonal het in tumors for RB41 
-reassess tumor samples 
-
-how many new samples are viably frozen and what are profiles? 
-
-2020-06-29:
 1. work up RB-49 for snGTO
 2. 
 
-
-Subclonal heterogeneity
-
-Have paper under review 
-
-Bioinfo strength 
-
-Training fellowship
-Career plan is imp.
-
-People guiding 
-
-Jim Hicks
-
-David Craig
-
-Push the subtleties of GTO 
-
-Can do PAN2 in the next few weeks enrichment pcr 
-
-Start with tumors with tractable subclonal heterogeneity 
-
-
-Can find a mentor for tail length issues? 
-
-Goal to deconvo. Contributions of SNVS and SCNAs in retinoblastoma tumor progression. 
-
-When het for SCNA find effect when het for SNV find effect. How do they relate? 
-
-Requires:
-New methods
-Appropriate samples 
-Domain expertise 
-
-Have tools? Have impact? 
-
-Priority would be pan2 qpcr 
-
-t
-
-Push lab experience with MYCN 
-
-
-
-PAN2 knockdown and overexpression in cel lines 
-Detect MYCN effects 
-Detect biogenesis signature
-Detect tail length changes
-
-PAN2 kD or oe then mycn persist? 
-
-could generate pan2 mutant in fetal retina as positive control 
-
-mycna rb have 100x higher mycn than cones 
-
-vectors that express mycn make similarly high mycn in cones 
-
-can discern increase MYCN with disruption of deadenylation?
-
-can atrribute to MYCN increased expression of other transcript changes
-
-copy increased level of MYCN w/ PAN2 mutation 
-
-can measuer how long-lived rnas are? like velocity 
-
-up by 10x mycn (vector) or 2-3x mycn in pan2 mutant 
-
-
-TODO
-
-check with PIBBS about requirements for thesis comittee (chair?) 
-check with Ite? 
-
-PAN2 genotyping or (taqman)?
-order primer pairs
-ask liya about partial target enrichment (PAN2) aliquot - pcr - sequence or include primers in final GTO amp steps? 
-
-follup with Rish 
-underrep of short in GTO, how bad is it? 
-worth it to titrate fragmentation buffer? 
-
-GTO; what samples are worthwhile?
-found subclonal het in tumors for RB41 
-reassess tumor samples 
-
-how many new samples are viably frozen and what are profiles? 
-
-ineligible: 11 + 17
-
-eligible: 17 
-
-unknown: 2
 
 
