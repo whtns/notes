@@ -1,0 +1,49 @@
+# notes
+2021-07-14
+
+## talk with Claire and DC about RB exome noncoding variants
+
+3' UTR modeled with transfection
+1. RNA binding proteins
+2. splicing
+
+check DYNC1H1 with NCBI "gene"
+
+can we obtain luciferase constructs from Jay?
+need to check base-editing with Beehive/CRISPOR
+editing enzymes have different PAMS
+
+plan for CRISPR base editing
+1. feasible?
+2. create gRNA and vectors
+3. which cells? weri and RB31
+4. how will we introduce into cells? nucleofection
+
+expose cells to puromycin for 1 day should select sufficiently
+Jennifer has luciferase reporter assays 
+
+## talk with Liya re MALBAC
+1. can we use an alternative primer for smart-seq
+2. need to get Bst polymerase for linear stage of MALBAC
+3. Liya provided box
+
+We should be concerned about:
+1. protease
+2. spin-down
+3. use axygen maximum recovery tips
+
+We may need to use existing MALBAC datasets to normalize SCNA results
+
+can assume 1x10^6 reads of gDNA
+should use PE 150 reads
+
+use NEBNEXT ultra II fs kit for indexing 
+
+will need to use 50% less protease to compensate for loss due to fragmentation
+
+protocol is designed for ug level of DNA
+
+What effect might smart-seq superimposed on MALBAC PCR have?
+
+check with Sunhye that smart-seq primers are identical at the 3' and 5' end
+
